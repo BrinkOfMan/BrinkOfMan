@@ -4,8 +4,8 @@
 
 - This profile largely functions as an archive for past school and personal projects I've created since I started seriously writing code in 2018.
 
-- If you'd like to reach out to me for things related to GitHub (collaboration, clarification on repositories, use of projects), feel free to email me at brinkmanethan@gmail.com OR brinkm1@stolaf.edu (school e-mail may be deactivated soon)
+- If you'd like to reach out to me for things related to GitHub (collaboration, clarification on repositories, use of projects), feel free to email me at brinkmanethan@gmail.com ~~OR brinkm1@stolaf.edu (school e-mail)~~ ONLY, as my school email will be deactivated as of September 2021.
 
-- If you'd like to reach out to me for a possible software developer position, both previous emails are welcome, or you can connect via linkedin at linkedin.com/in/ethanbrinkman/
+- If you'd like to reach out to me for a possible software developer position, emails are welcome, or you can connect via linkedin at linkedin.com/in/ethanbrinkman/ and send a message there.
 
 - Stay hydrated!
