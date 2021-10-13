@@ -6,6 +6,6 @@
 
 - If you'd like to reach out to me for things related to GitHub (collaboration, clarification on repositories, use of projects), feel free to email me at brinkmanethan@gmail.com ~~OR brinkm1@stolaf.edu (school e-mail)~~ instead of my deactivated school email.
 
-- If you'd like to reach out to me for a possible software developer position, emails are welcome, or you can connect via linkedin at linkedin.com/in/ethanbrinkman/ and send a message there.
+- If you'd like to reach out to me for a possible software developer position, emails are welcome, or you can connect via linkedin at https://www.linkedin.com/in/ethanbrinkman/ and send a message there.
 
 - Stay hydrated!
